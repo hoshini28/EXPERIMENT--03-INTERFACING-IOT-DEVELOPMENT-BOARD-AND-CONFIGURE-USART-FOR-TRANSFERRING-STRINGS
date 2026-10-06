@@ -115,7 +115,7 @@ int main(void)
   while (1)
   {
 
-	  printf("Hoshini S\n");
+	  printf("HOSHINI S\n");
 	  printf("2305003006 \n");
 	  HAL_Delay(5000);
 
